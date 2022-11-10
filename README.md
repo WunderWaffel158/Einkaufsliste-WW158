@@ -1,6 +1,9 @@
 # Einkaufsliste-WW158
 
 # Lebenslauf
+
+![Profilbild](./th-1178383790.png "abc")
+
 * Geboren in Lugansk
 * 14 Jahre in Russland gewohnt
 * Nach Deutschlang gezogen
