@@ -11,7 +11,7 @@
   * Abitur
   
 ## Karriere
-  * Minijob bei WST
-  * Teilzeit bei Rewe
-  * Praktikum bei TDK Micronas
+  * Minijob bei *WST*
+  * Teilzeit bei *Rewe*
+  * Praktikum bei *TDK Micronas*
     * First & second level Support
